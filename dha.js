@@ -82,7 +82,7 @@ let setting = JSON.parse(fs.readFileSync('./setting.json'))
 owner = setting.owner
 gamewaktu = setting.gamewaktu
 petik = '```'
-fake = 'CREATOR BOT\©KurrXd'//GANTI NAMA KAMU BEP
+fake = 'CREATOR BOT\Ajur'//GANTI NAMA KAMU BEP
 ban =[]
 
 // Database
@@ -846,10 +846,10 @@ dha.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 ❏ LIMIT : *${isPremium ? 'Unlimited' : `${gcount}`}*
 
 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧
-❏ NAMA : *Sherlynn-Botz*
-❏ API : @6281220670449
-❏ OWNER : *©KurrXd*
-❏ API : *@6281220670449*
+❏ NAMA : *BoT-Chromosome*
+❏ API : @6281804832728
+❏ OWNER : *Ajur*
+❏ API : *@6281804832728*
 ❏ AKTIF : *${runtime(process.uptime())}*
 ❏ BATERAI : *${baterai}%*
 ❏ PREIFIX : *『${prefix}』*
